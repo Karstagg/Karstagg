@@ -1,3 +1,1 @@
-### Hi there
-
-<h1>hi</h1>
+<h1 style="text-align: center;">Hi There!</h1>
